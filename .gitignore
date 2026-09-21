@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+example/checkpoints/*
+!example/checkpoints/.gitkeep
+example/forecasts/*
+!example/forecasts/.gitkeep

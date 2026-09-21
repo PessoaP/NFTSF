@@ -1,0 +1,5 @@
+torch==2.10.0
+normflows==1.7.3
+numpy==1.23.5
+matplotlib==3.10.8
+tqdm==4.67.3
